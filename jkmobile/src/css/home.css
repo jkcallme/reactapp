@@ -1,0 +1,30 @@
+
+.am-wingblank.am-wingblank-lg{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.sub-title {
+    color: #888;
+    font-size: 14px;
+    padding: 15px 0 9px 15px;
+  }
+  .not-square-grid .am-grid-icon {
+    width: 40px;
+    height: 60px;
+  }
+  .icon{
+      border-radius: 50%;
+  }
+  .am-navbar-light {
+    background-color: #ce3e3e;
+    color:white;
+}
+.am-navbar-light .am-navbar-title {
+  color:white;
+}
+.am-flexbox{
+  border-bottom:1px solid #ededed;
+}
+.am-tab-bar-bar{
+  background: #f5f5f7!important;
+}

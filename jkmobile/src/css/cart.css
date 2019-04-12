@@ -1,0 +1,35 @@
+.am-card{
+    background: #fff;
+    transition: all .2s linear;
+    box-shadow: 0 10px 5px rgba(0,0,0,0.1);
+    transform : translate3d(0,-2px,0);
+    margin-bottom: 15px;
+    background: #fff5f4;
+}
+.hqx{
+    background: #fff5f4;
+}
+.am-list-content{
+
+}
+.am-list-item .am-list-line .am-list-content {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    color: 000;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    /* line-height: 1.5; */
+    position: relative;
+    bottom: 20px;
+    width: auto;
+    /* overflow: hidden; */
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    /* padding-top: 7px; */
+    /* padding-bottom: 7px; */
+}
+.am-list-content {
+    /* margin-top: 40px; */
+}
